@@ -31,3 +31,8 @@
 
 # Debug files
 *.dSYM/
+./Drivers
+
+*.su
+*.mk
+*.list
